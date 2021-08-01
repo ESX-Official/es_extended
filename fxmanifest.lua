@@ -9,6 +9,7 @@ version 'legacy'
 shared_scripts {
 	'locale.lua',
 	'locales/de.lua',
+	'locales/es.lua',
 	'locales/br.lua',
 	'locales/fr.lua',
 	'locales/en.lua',
